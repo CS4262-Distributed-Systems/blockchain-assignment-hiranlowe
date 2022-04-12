@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest$InvokeDuplicateTransaction" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-12T19:35:30" hostname="VivoBook-Pro" time="0.01">
+  <properties/>
+  <testcase name="whenAssetExists()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest$InvokeDuplicateTransaction" time="0.005"/>
+  <testcase name="whenAssetDoesNotExist()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest$InvokeDuplicateTransaction" time="0.003"/>
+  <system-out><![CDATA[true
+false
+Asset not exists
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
